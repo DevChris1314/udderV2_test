@@ -16,6 +16,12 @@ class ViewController: UIViewController {
 
 
     @IBAction func buttonTriggered(_ sender: UIButton) {
+        performSegue(withIdentifier: "toSec", sender: self)
+        
     }
+    
+    
+    
+    
 }
 
