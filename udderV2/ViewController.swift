@@ -15,5 +15,7 @@ class ViewController: UIViewController {
     }
 
 
+    @IBAction func buttonTriggered(_ sender: UIButton) {
+    }
 }
 
